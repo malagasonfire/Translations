@@ -40,10 +40,10 @@
     <string name="hide_sponsored_summary">Quando ativado, irá esconder Conteúdo &#8220;Patrocinado&#8221; (anúncios) do Feed de Notícias.</string>
     <string name="hide_birthdays_title">Ocultar Aniversários</string>
     <string name="hide_birthdays_summary">Quando ativado, irá ocultar aniversários do seu Feed de notícias.</string>
-    <string name="clearcache">Clear cache on exit</string>
-    <string name="clearcache_summary">It will take more time to open the app.</string>
-    <string name="hide_recently_commented">Hide recently commented</string>
-    <string name="hide_recently_commented_summary">X people recently commented on this.</string>
+    <string name="clearcache">Limpar cache ao sair</string>
+    <string name="clearcache_summary">A aplicação ira demorar mais tempo a iniciar</string>
+    <string name="hide_recently_commented">Esconder comentários recentes</string>
+    <string name="hide_recently_commented_summary">X pessoas comentaram recentemente isto</string>
     <string name="start_url">Start URL</string>
     <string-array name="Start">
         <item>MostRecent</item>
@@ -63,12 +63,12 @@
     <string name="navigation_setting_title">NAVEGAÇÃO</string>
     <string name="hide_menu_bar_title">Esconder barra de menu</string>
     <string name="hide_menu_bar_summary">Quando ativado, a barra de menu do Facebook ira ser ocultada.</string>
-    <string name="navigation_menu_settings">Navigation menu items</string>
+    <string name="navigation_menu_settings">Items Navegação do Menu</string>
     <string name="navigation_menu_settings_description">You can show/hide items in the navigation menu.</string>
-    <string name="save_data">Save data</string>
-    <string name="save_data_summary">When enabled, the app autoconfigure to save data</string>
-    <string name="fab_enable">Floating Action Button</string>
-    <string name="fab_enable_summary">Show the FAB.</string>
+    <string name="save_data">Poupar Dados Móveis</string>
+    <string name="save_data_summary">Quando habilitado, a app poupa dados automáticamente</string>
+    <string name="fab_enable">Botão Flutuante de Acções(FAB)</string>
+    <string name="fab_enable_summary">Mostrar o FAB</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Postar um status</string>
     <string name="fab_photo">Postar uma foto</string>
@@ -76,23 +76,23 @@
     <string name="fab_jump_top">Ir para o Topo</string>
     <!-- Navigation: items -->
     <string name="navigation_menu_title">MENU DE NAVEGAÇÃO</string>
-    <string name="ic_menu_exitapp">Exit app</string>
+    <string name="ic_menu_exitapp">Sair da app</string>
     <string name="ic_menu_exitapp_summary">When enabled, &#8216;Exit app&#82167; button on navigation menu disappear.</string>
-    <string name="ic_menu_fblogout">Log out</string>
+    <string name="ic_menu_fblogout">Fechar sessão</string>
     <string name="ic_menu_fblogout_summary">When enabled, &#8216;Log out&#82167; button on navigation menu disappear.</string>
-    <string name="menu_photos">Photos</string>
+    <string name="menu_photos">Fotos</string>
     <string name="menu_photos_summary">When enabled, &#8216;Photos&#82167; button on navigation menu disappear.</string>
-    <string name="menu_events">Events</string>
+    <string name="menu_events">Eventos</string>
     <string name="menu_events_summary">When enabled, &#8216;Events&#82167; button on navigation menu disappear.</string>
     <string name="menu_back">Voltar</string>
     <string name="menu_back_summary">If disabled, &#8216;Voltar&#82167; button on navigation menu disappear.</string>
-    <string name="menu_top_stories">Top stories</string>
+    <string name="menu_top_stories">Top Historias</string>
     <string name="menu_top_stories_summary">If disabled, &#8216;Top stories&#82167; button on navigation menu disappear.</string>
-    <string name="menu_most_recent">Most Recent</string>
+    <string name="menu_most_recent">Mais Recentes</string>
     <string name="menu_most_recent_summary">If disabled, &#8216;Most Recent&#82167; button on navigation menu disappear.</string>
     <string name="menu_friendreq">Solicitações de Amizade</string>
     <string name="menu_friendreq_summary">If disabled, &#8216;Solicitações de Amizade&#82167; button on navigation menu disappear.</string>
-    <string name="menu_groups">Groups</string>
+    <string name="menu_groups">Grupos</string>
     <string name="menu_groups_summary">If disabled, &#8216;Groups&#82167; button on navigation menu disappear.</string>
     <string name="menu_messages">Mensagens</string>
     <string name="menu_search">Pesquisar</string>
@@ -127,10 +127,10 @@
     <string name="error_facebook_error">Algo deu errado por parte do Facebook</string>
     <string name="loading">Carregando</string>
     <string name="permission_denied">Permissão negada, ação não pode ser finalizada</string>
-    <string name="downloaded">Downloaded</string>
-	<string name="bookmarks">Bookmarks</string>
-    <string name="new_bookmark">Added:</string>
-    <string name="remove_bookmark">Removed:</string>
+    <string name="downloaded">Descargas</string>
+	<string name="bookmarks">Favoritos</string>
+    <string name="new_bookmark">Adicionados:</string>
+    <string name="remove_bookmark">Removidos:</string>
 	<!-- About -->
     <string name="more">Mais e créditos</string>
     <string name="about_updates">Atualizações</string>
